@@ -37,7 +37,7 @@ end
 
 # Define your play method below
 
-ef play(board)
+def play(board)
   loop do
   counter += 1
   puts turn(board)
