@@ -41,5 +41,4 @@ def play(board)
   loop do
   counter += 1
   puts turn(board)
-  
   if 
