@@ -40,3 +40,4 @@ end
 def play(board)
   loop do
   until turn(board) == 9
+  if 
